@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[aa]]></title>
+    <url>%2F2019%2F04%2F04%2Faa%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[使用注意事项]]></title>
     <url>%2F2019%2F04%2F04%2F%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%2F</url>
     <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
   </entry>
   <entry>
     <title><![CDATA[我的第一个博客]]></title>
     <url>%2F2019%2F04%2F03%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"></content>
+      <categories>
+        <category>其他</category>
+      </categories>
   </entry>
 </search>
